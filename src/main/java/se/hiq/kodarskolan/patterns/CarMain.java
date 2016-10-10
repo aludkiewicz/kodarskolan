@@ -19,10 +19,8 @@ public class CarMain {
                         .withSummerTyres()
                         .build();
         
-        
         System.out.println(car);
         System.out.println(carWithSnowTyres);
         System.out.println(carWithSummerTyres);
     }
-
 }
